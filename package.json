@@ -1,0 +1,16 @@
+{
+  "name": "testmljavascript",
+  "version": "1.0.0",
+  "description": "just test machine learning in javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agoujil saad",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "ml-regression": "^4.4.2",
+    "readline": "^1.3.0"
+  }
+}
